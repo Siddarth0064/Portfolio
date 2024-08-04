@@ -254,7 +254,10 @@ span{
     display: block;
 }
 
-
+.tab-contents .roleName{
+    color: #ffffff; 
+    font-weight: bold;
+}
 
 
 

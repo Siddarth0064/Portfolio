@@ -64,7 +64,7 @@ ScrollReveal().reveal('.home-content p, .about-content', {origin: 'right'});
 });
 /*------------------------TYPED.JS--------------------- */
 var typed = new Typed('.multiple-text',{
-    strings : ['Backend Developer', 'Java Developer', 'YouTuber'],
+    strings : ['Backend Developer', 'YouTuber','Java Developer'],
     typedSpeed:60,
     backSpeed:60,
     BackDelay:1000,
